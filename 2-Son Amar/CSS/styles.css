@@ -1,0 +1,105 @@
+*¨{
+    margin:0;
+    padding:0;
+    border-collapse: collapse;
+}
+
+.logo {
+    display: block;
+    width: 240px;
+    height: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+h1,h2 {
+    color: rgb(216, 57, 57);
+}
+
+main {
+    width: 540px;
+    margin-left: auto;
+    margin-right: auto;
+ 
+ 
+}
+.tabla1 {
+    width: 400px;
+    
+}
+
+.tabla1 td {
+    background-color: rgb(124, 122, 122);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.table2 {
+width: 400px;
+}
+
+.table2 td {
+    background-color: rgb(124, 122, 122);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#numero {
+    background-color: aliceblue;
+}
+
+.linea {
+    margin-top: auto;
+}
+
+.reserva {
+    margin-top: auto;
+}
+
+.QR {
+    width: 70px;
+    height: 57px;
+    float: left;
+}
+
+
+.abajo {
+    background-color: aliceblue;
+}
+
+th {
+    color: rgb(216, 57, 57);
+}
+
+
+hr {
+    width: 500px;
+    float: left;
+}
+
+
+
+
+.mas_abajo {
+margin-right: auto;
+
+text-align: right;
+}
+
+.GASTOS {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.PRECIO {
+    margin-left: 27%;
+}
+
+.GASTOS2 {
+    color: rgb(216, 57, 57);
+    
+}
+
+
